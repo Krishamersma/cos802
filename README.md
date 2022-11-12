@@ -13,3 +13,5 @@ https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews?resource=down
 - There should be two data files included in the download. Only the "Book_ratings.csv" file is used. 
 
 - Click run all to run the full script. It will take a while. The output is saved in an output folder, and then read into a condensed dataframe to plot the results. 
+
+- The plots are generated in the notebook cell outputs
